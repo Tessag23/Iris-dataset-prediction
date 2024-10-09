@@ -12,3 +12,5 @@ The model was trained on a dataset featuring four key attributes,
 * PetalWidthCm.
 
 The model demonstrated exceptional performance, achieving a perfect accuracy of 100%.
+
+Part of OCI AI Foundations Associate course.
